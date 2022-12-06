@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin-top: 60px;
 }
 
 .App-header {
@@ -28,4 +29,10 @@
 
 .small {
   font-size: 0.75rem;
+}
+
+.logo1 {
+  display: flex;
+  margin: auto;
+  padding-top: 30px;
 }
